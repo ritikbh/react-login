@@ -15,6 +15,7 @@ Admin login with clien side validation
  - cd client
  - npm install
  - cd ..
+ - create .env and connect your mongodb by adding DB_URI
  - npm start
 
 
