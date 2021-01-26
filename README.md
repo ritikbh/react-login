@@ -1,5 +1,5 @@
-# React Node Chat Application
-This is a chat application based on Socket.IO with Node.js as backend and React.js as frontend.
+# React Node Admin login
+Admin login with clien side validation
 
 ### Preview - 
 
@@ -10,10 +10,17 @@ This is a chat application based on Socket.IO with Node.js as backend and React.
 
 ## Installation -
  - Clone the project
- - Go to folder directory
- > cd node-react-chat
- - Run -
-  > npm install
+ > cd react-login
+ > npm install
+ > cd client
+ > npm install
+ > cd ..
+ > npm start
+
+
+
+
+ 
 
 
 ## Run Application -
