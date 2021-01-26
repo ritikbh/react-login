@@ -1,5 +1,5 @@
 # React Node Admin login
-Admin login with clien side validation
+Admin login with client side validation
 
 ### Preview - 
 
