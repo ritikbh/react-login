@@ -18,7 +18,7 @@ Admin login with client side validation
  - create .env and connect your mongodb by adding DB_URI
  - npm start
  - Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
- - E-Mail Address - hruday@gmail.com and Pasword - hruday123
+ - E-Mail Address - hruday@gmail.com and Password - hruday123
 
 ## Working -
 - server.js run a node server to run api to fetch the data from mongodb
