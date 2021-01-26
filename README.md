@@ -5,7 +5,7 @@ This is a chat application based on Socket.IO with Node.js as backend and React.
 
 ---
 
-<img src="https://i.ibb.co/jyfn3Lf/ezgif-com-gif-maker.gif" width="700" height="400" />
+<img src="https://i.ibb.co/7WnDPxw/ezgif-com-gif-maker-1.gif" width="700" height="400" />
 
 
 ## Installation -
