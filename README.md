@@ -10,12 +10,12 @@ Admin login with clien side validation
 
 ## Installation -
  - Clone the project
- > cd react-login
- > npm install
- > cd client
- > npm install
- > cd ..
- > npm start
+ - cd react-login
+ - npm install
+ - cd client
+ - npm install
+ - cd ..
+ - npm start
 
 
 
